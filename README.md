@@ -3,6 +3,7 @@ Binome: CHAFIKI MOHAMED et AADOU MOHAMED
 
 
 Dans le monde de `l'assurance automobile`, où les risques sont omniprésents et les coûts imprévisibles, l'analyse des données offre une avenue prometteuse pour les compagnies d'assurance désireuses d'améliorer leur compréhension des risques et d'optimiser leurs opérations. En se plongeant dans un ensemble de données complet comprenant une variété de variables, des informations précieuses peuvent être extraites pour informer les décisions stratégiques et opérationnelles.
+
 **Description des données :**
 Les données comprennent des informations sur les assurés, leurs polices d'assurance et les incidents d'assurance automobile. Voici une brève description des variables :
 
